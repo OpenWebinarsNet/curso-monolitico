@@ -1,0 +1,7 @@
+review:
+
+  - id: 1
+    review: This game is better than previous one
+    reviewer: Alex
+    rating: 4
+    gameid: 3

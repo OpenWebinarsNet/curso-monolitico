@@ -1,0 +1,7 @@
+game:
+
+  - id: 1
+    title: The Secret Of Monkey Island
+    descriptionhtml: <p>It is a Point-and-Click adventure</p>
+    cover: https://upload.wikimedia.org/wikipedia/en/a/a8/The_Secret_of_Monkey_Island_artwork.jpg
+    screenshot: https://upload.wikimedia.org/wikipedia/en/9/9f/The_Secret_of_Monkey_Island_SCUMM_Bar.jpg

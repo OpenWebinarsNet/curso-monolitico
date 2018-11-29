@@ -1,0 +1,44 @@
+# Eclipse
+.project
+.classpath
+.settings/
+.factorypath
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+bin/
+
+# Gradle
+.gradle/
+.ivy/
+
+# Maven
+target/
+*.versionsBackup
+
+# TestNG
+test-output/
+
+# JBoss AS
+transaction.log
+
+# Infinitest configuration
+infinitest.filters
+
+# Logs
+*.log
+*.log~
+*.DS_Store
+
+# Libreoffice leftovers (XLS)
+.~lock*
+
+# asciidoctor generation and gh-pages
+index.html
+README.html
+gh-pages/
+
+atlassian-ide-plugin.xml
